@@ -8,7 +8,6 @@
 #define _LIBRATS_CSV_H_
 
 #define HYGON_KDS_SERVER_SITE	    "https://cert.hygon.cn/hsk_cek?snumber="
-#define HYGON_HSK_CEK_CERT_FILENAME "hsk_cek.cert"
 
 #define HYGON_CERT_SIZE		832
 #define HYGON_CSV_CERT_SIZE	2084
